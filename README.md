@@ -93,4 +93,23 @@ The SwiftUI community for inspiration and resources
 Contact
 For questions or feedback, please contact pranitmathyam@gmail.com
 
+Output snippits:
+
+<img width="316" alt="Screenshot 2025-04-26 at 1 21 04 AM" src="https://github.com/user-attachments/assets/2e646108-185f-423c-9a0e-7efd9ef9d01e" />
+<img width="325" alt="Screenshot 2025-04-26 at 1 20 55 AM" src="https://github.com/user-attachments/assets/87107007-9076-42d3-bc0e-c56964d69440" />
+<img width="329" alt="Screenshot 2025-04-26 at 1 20 26 AM" src="https://github.com/user-attachments/assets/54cbf829-0a60-425a-a75a-95e2649b53f7" />
+<img width="330" alt="Screenshot 2025-04-26 at 1 20 08 AM" src="https://github.com/user-attachments/assets/2617d40e-3206-4792-b616-26b80905ccef" />
+<img width="326" alt="Screenshot 2025-04-26 at 1 19 58 AM" src="https://github.com/user-attachments/assets/4724d174-15d2-4d96-85b3-1570a4805a93" />
+<img width="327" alt="Screenshot 2025-04-26 at 1 19 43 AM" src="https://github.com/user-attachments/assets/651e25e9-a25b-4238-abcb-ac7daa43cd5d" />
+<img width="323" alt="Screenshot 2025-04-26 at 1 18 41 AM" src="https://github.com/user-attachments/assets/160b85fd-3e13-48d6-b6c6-87b52f725810" />
+<img width="318" alt="Screenshot 2025-04-26 at 1 18 30 AM" src="https://github.com/user-attachments/assets/70295919-946f-4377-a610-14c83777c94c" />
+<img width="335" alt="Screenshot 2025-04-26 at 1 17 40 AM" src="https://github.com/user-attachments/assets/4ff8ae0d-d46d-48d5-9c80-958f19971418" />
+<img width="332" alt="Screenshot 2025-04-26 at 1 17 23 AM" src="https://github.com/user-attachments/assets/35142927-6ea6-46cb-be62-9f725aab4f4f" />
+<img width="335" alt="Screenshot 2025-04-26 at 1 17 10 AM" src="https://github.com/user-attachments/assets/88e8e90e-31c8-4fff-9a56-a29f428ca563" />
+<img width="345" alt="Screenshot 2025-04-26 at 1 16 57 AM" src="https://github.com/user-attachments/assets/6fb08afb-1a10-4c20-b049-69ebe7e01f24" />
+<img width="343" alt="Screenshot 2025-04-26 at 1 16 44 AM" src="https://github.com/user-attachments/assets/2784d5af-918f-4ea8-b920-54f443e3bcef" />
+<img width="345" alt="Screenshot 2025-04-26 at 1 16 32 AM" src="https://github.com/user-attachments/assets/c142e0f0-f26d-4e58-8751-fb23087bf4ea" />
+<img width="341" alt="Screenshot 2025-04-26 at 1 16 10 AM" src="https://github.com/user-attachments/assets/cdf0a7e8-685a-4565-910e-6a5bbc2d6292" />
+
+
 
